@@ -114,4 +114,43 @@ span{
     margin-top: 70px;
     margin-bottom: 50px;
  }
+ 
+ .edu-plan-box {
+  background-color: lightskyblue;
+  width: 20%;
+  
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 80px;
+  border-radius: 10px;
+
+}
+.shelter-plan-box {
+  background-color: lightpink;
+  width: 20%;
+  
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 80px;
+  border-radius: 10px;
+
+}
+.food-plan-box {
+  background-color: lightseagreen;
+  width: 20%;
+  
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 80px;
+  border-radius: 10px;
+
+}
+.div-box{
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
   
